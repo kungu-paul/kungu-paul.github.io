@@ -416,6 +416,10 @@ flex-direction: column;
     margin-top: 20px;
     font-size: 16px;
 }
+.footer .copyright .img{
+    display:flex;
+    margin-left:50px;
+}
 
 /*responsive design code*/
 @media (max-width:1200px){
